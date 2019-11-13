@@ -12,9 +12,9 @@ Items:
 8. Pcb
 9. Wooden socket for solenoid lock
 10. Screws or 
-   1. glue or
-   2. hole in the door frame
-   3. Metal hinge for lock
+     1. glue or
+     2. hole in the door frame
+     3. Metal hinge for lock
 11. Cable guide
 
 
