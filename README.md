@@ -23,3 +23,4 @@ Resources:
 1. [Auto Connect](https://hieromon.github.io/AutoConnect/index.html)
 2. [Adafruit io dashboard](https://io.adafruit.com/aroramayank2002/dashboards/door-lock)
 3. [Adafruit code example](https://learn.adafruit.com/adafruit-io-basics-digital-output?view=all)
+4. [D1 mini V2](https://docs.zerynth.com/latest/official/board.zerynth.wemos_d1_mini/docs/index.html)
