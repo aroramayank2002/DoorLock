@@ -1,5 +1,5 @@
 # DoorLock
-To have a door lock that can be opened remotely using 
+To have a door lock that can be opened remotely using mobile device.
 
 Items:
 1. 12v Adapter
